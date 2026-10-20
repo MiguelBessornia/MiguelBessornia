@@ -1,5 +1,9 @@
 <div align="center">
 
+![Abstract dark banner with a rising data path in violet and cyan](assets/profile-hero.png)
+
+<sub>APRESENTAÇÃO PESSOAL</sub>
+
 # Miguel
 
 ### BUSINESS × TECHNOLOGY × GROWTH
@@ -56,12 +60,25 @@ The two RedeVita repositories have overlapping scope; I have not presented them 
 
 ## Technologies in my public projects
 
-*These are technologies identified in the reviewed repositories, not a claim of expert-level proficiency.*
+*These badges label technologies found in reviewed repository code; they are not a claim of expert-level proficiency.*
 
-- **Languages:** TypeScript, Python, HTML, CSS and JavaScript.
-- **Frontend:** React, Vite and Tailwind CSS.
-- **Backend & data:** Flask, SQLAlchemy and Flask-Login; SQLite, MySQL and PostgreSQL are documented/configured options in RedeVita.
-- **AI integration:** Google Gemini through the `@google/genai` client in Infomed.
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+Also observed in project files: SQLAlchemy, Flask-Login, SQLite, MySQL, PostgreSQL and Google Gemini via `@google/genai`.
+
+## GitHub activity
+
+GitHub’s native contribution graph and activity are available on this profile below the README. I left out third-party statistics and streak cards because the commonly used public stats service is no longer maintained and warns that its shared instance can be unreliable.
 
 ## Current learning priorities
 
