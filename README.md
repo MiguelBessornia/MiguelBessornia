@@ -88,7 +88,7 @@ GitHub’s native contribution graph and activity are available on this profile 
 
 ## Contact
 
-[GitHub](https://github.com/MiguelBessornia) · No other public contact or social links were verifiable during the profile audit.
+[miguelbessornia@gmail.com](mailto:miguelbessornia@gmail.com) · [GitHub](https://github.com/MiguelBessornia)
 
 ---
 
